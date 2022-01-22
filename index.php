@@ -55,28 +55,33 @@
 
 				  <!-- Full-width images with number and caption text -->
 				  <div class="mySlides fade">
-					<div class="numbertext">1 / 5</div>
+					<div class="numbertext">1 / 6</div>
 					<img src="images/homepage_1.jpg" style="width:100%" alt="Slideshow Photo" />					
 				  </div>
 
 				  <div class="mySlides fade">
-					<div class="numbertext">2 / 5</div>
+					<div class="numbertext">2 / 6</div>
 					<img src="images/homepage_2.jpg" style="width:100%" alt="Slideshow Photo" />					
 				  </div>
 				  
 				  <div class="mySlides fade">
-					<div class="numbertext">3 / 5</div>
+					<div class="numbertext">3 / 6</div>
 					<img src="images/homepage_3.jpg" style="width:100%" alt="Slideshow Photo" />					
 				  </div>
 				  
 				  <div class="mySlides fade">
-					<div class="numbertext">4 / 5</div>
+					<div class="numbertext">4 / 6</div>
 					<img src="images/homepage_4.jpg" style="width:100%" alt="Slideshow Photo" />					
 				  </div>
 	
 				  <div class="mySlides fade">
-					<div class="numbertext">5 / 5</div>
+					<div class="numbertext">5 / 6</div>
 					<img src="images/homepage_5.jpg" style="width:100%" alt="Slideshow Photo" />					
+				  </div>
+
+				  <div class="mySlides fade">
+					<div class="numbertext">6 / 6</div>
+					<img src="images/homepage_6.jpg" style="width:100%" alt="Slideshow Photo" />					
 				  </div>
 
 				  <!-- Next and previous buttons -->
@@ -92,6 +97,7 @@
 				  <span class="dot" onclick="currentSlide(3)"></span>
 				  <span class="dot" onclick="currentSlide(4)"></span>
 				  <span class="dot" onclick="currentSlide(5)"></span>
+				  <span class="dot" onclick="currentSlide(6)"></span>
 				</div> 
 			</div>
 		</div>
